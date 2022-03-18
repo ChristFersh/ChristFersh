@@ -1,10 +1,11 @@
 ### Hi, I'm Manuel 💻✔
-
-const Manuel Gomez = {
+```js
+const ChristianDiaz = {
   pronouns: "He" | "Him",
   code: [Python, Bash, NodeJS, SQL],
   tools: [ExpressJS, Flask, MySQL, MongoDB]
 }
+```
 
 ## You can find me: 
 - [Twitter](https://twitter.com/fersh_t)
