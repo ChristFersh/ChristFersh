@@ -1,4 +1,4 @@
-### Hi, I'm Manuel 💻✔
+### Hi, I'm Christian 💻✔
 ```js
 const ChristianDiaz = {
   pronouns: "He" | "Him",
@@ -10,7 +10,7 @@ const ChristianDiaz = {
 ## You can find me: 
 - [Twitter](https://twitter.com/fersh_t)
 - [Linkedin](https://www.linkedin.com/in/christian-fernando-diaz-bola%C3%B1os-575218197/)
-- manologm10@hotmail.com
+- christian.diaz.fts@gmail.com
 
 ## My Stats
 
