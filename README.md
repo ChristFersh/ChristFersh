@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Christian Diaz</h1>
 <h3 align="center">A passionate frontend and backend developer in Colombia.</h3>
 
+```js
+const ChristianDiaz = {
+  pronouns: "He" | "Him",
+  code: [Python, Bash, NodeJS, SQL],
+  tools: [ExpressJS, Flask, MySQL, MongoDB]
+}
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themastertz&label=Profile%20views&color=0e75b6&style=flat" alt="themastertz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themastertz" alt="themastertz" /></a> </p>
