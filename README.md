@@ -4,7 +4,7 @@
 ```js
 const ChristianDiaz = {
   pronouns: "He" | "Him",
-  code: [Python, Bash, NodeJS, SQL],
+  code: [Python, Bash, NodeJS, SQL, Typescript, Javascript],
   tools: [ExpressJS, Flask, MySQL, MongoDB]
 }
 ```
