@@ -14,6 +14,7 @@ const ChristianDiaz = {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themastertz" alt="themastertz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fersh_t" target="blank"><img src="https://img.shields.io/twitter/follow/fersh_t?logo=twitter&style=for-the-badge" alt="fersh_t" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I am currently working at Holberton [link](https://www.holbertoncolombia.com/equipo)
 
