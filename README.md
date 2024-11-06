@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WebDeveloper
 ------------
 
-👋 Hi! I'm a developer with 3 years of experience in creating modern and scalable web applications. My main stack focuses on technologies like Node.js (using Express and NestJS), React, Next.js and Astro.js. I work with relational databases such as MySQL and PostgreSQL, and use TypeORM to optimize integration with database systems. Throughout my career, I have built robust and efficient solutions, ensuring that each application is maintainable, secure and ready to grow along with the needs of the project. I am passionate about continuing to improve my skills and explore new technologies that contribute to delivering the best possible user experience.
+👋 Hi! I'm a developer with 3 years of experience in creating modern and scalable web applications. My main stack focuses on technologies like Node.js (using Express and NestJS), React, Next.js and Astro.js. I work with relational databases such as MySQL and PostgreSQL, and use TypeORM to optimize integration with database systems.
 
+Throughout my career, I have built robust and efficient solutions, ensuring that each application is maintainable, secure and ready to grow along with the needs of the project. I am passionate about continuing to improve my skills and explore new technologies that contribute to delivering the best possible user experience.
 * 🌍  I'm based in Cali, Colombia
 * ✉️  You can contact me at [christian.diaz.fts@gmail.com](mailto:christian.diaz.fts@gmail.com)
 * 🚀  I'm currently working on [Aestro](http://www.aestro.com)
